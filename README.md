@@ -1,7 +1,9 @@
 # SQL Insert Cleaner GUI
 
 SQL dump dosyalarındaki `INSERT INTO` sorgularını, tablo yapısını ve orijinal dosyayı koruyarak temizleyen masaüstü uygulaması.
+## Screenshot
 
+![SQL Insert Cleaner GUI](assets/screenshot.png)
 ## Özellikler
 
 - SQL dosyasındaki veri içeren tabloları otomatik listeler.
