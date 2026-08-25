@@ -64,6 +64,13 @@ sql-insert-cleaner/
 ├── LICENSE
 └── README.md
 ```
+## Download
+
+Windows kullanıcıları, Python kurmadan uygulamanın hazır EXE sürümünü indirebilir:
+
+[Download SQL Insert Cleaner for Windows](https://github.com/g0khanbey/sql-insert-cleaner/releases/latest)
+
+Release sayfasındaki **Assets** bölümünden `SQL-Insert-Cleaner.exe` dosyasını indirip çalıştırın.
 
 ## Güvenlik yaklaşımı
 
